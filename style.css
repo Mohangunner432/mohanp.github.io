@@ -1,0 +1,16 @@
+#page-header {
+    height: 100px;
+    color: #E25D33;
+    background-color: #DCD8CF;
+    border-bottom: #E25D33 3px solid;
+}
+
+#main-footer{
+    height: 100px;
+    color: #E25D33;
+    background-color: #DCD8CF;
+    border-top: #E25D33 3px solid;
+}
+
+
+
